@@ -1,0 +1,383 @@
+spritesheetfree.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bayonet_charge
+  rotate: false
+  xy: 322, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 0
+bayonet_charge
+  rotate: false
+  xy: 276, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 1
+bayonet_charge
+  rotate: false
+  xy: 368, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 2
+bayonet_charge
+  rotate: false
+  xy: 230, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 3
+bayonet_charge
+  rotate: false
+  xy: 138, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 4
+bayonet_charge
+  rotate: false
+  xy: 92, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 5
+bayonet_charge
+  rotate: false
+  xy: 414, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 6
+bayonet_charge
+  rotate: false
+  xy: 46, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 7
+bayonet_charge
+  rotate: false
+  xy: 184, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 8
+bayonet_charge
+  rotate: false
+  xy: 276, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 9
+bayonet_charge
+  rotate: false
+  xy: 230, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 10
+bayonet_charge
+  rotate: false
+  xy: 46, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 11
+bayonet_charge
+  rotate: false
+  xy: 92, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 12
+bayonet_charge
+  rotate: false
+  xy: 0, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 13
+bayonet_charge
+  rotate: false
+  xy: 460, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 14
+bayonet_charge
+  rotate: false
+  xy: 184, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 15
+bayonet_charge
+  rotate: false
+  xy: 334, 43
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 16
+bayonet_charge
+  rotate: false
+  xy: 196, 43
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 17
+bayonet_charge
+  rotate: false
+  xy: 138, 135
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 18
+bayonet_charge
+  rotate: false
+  xy: 242, 43
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 19
+bayonet_charge
+  rotate: false
+  xy: 288, 43
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 20
+bayonet_charge
+  rotate: false
+  xy: 426, 43
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 21
+bayonet_charge
+  rotate: false
+  xy: 0, 89
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 22
+bayonet_charge
+  rotate: false
+  xy: 380, 43
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 23
+hammer
+  rotate: false
+  xy: 96, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+hammer
+  rotate: false
+  xy: 24, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+hammer
+  rotate: false
+  xy: 48, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+hammer
+  rotate: false
+  xy: 72, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 4
+hammer
+  rotate: false
+  xy: 0, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 5
+Marx-Sprite-sheet
+  rotate: false
+  xy: 322, 135
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 1
+Marx-Sprite-sheet
+  rotate: false
+  xy: 0, 185
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: 3
+Marx-Sprite-sheet
+  rotate: false
+  xy: 32, 185
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: 4
+Marx-Sprite-sheet
+  rotate: false
+  xy: 64, 185
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: 5
+Marx-Sprite-sheet
+  rotate: false
+  xy: 96, 185
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: 6
+Marx-Sprite-sheet
+  rotate: false
+  xy: 354, 135
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 7
+Marx-Sprite-sheet
+  rotate: false
+  xy: 386, 135
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 8
+Marx-Sprite-sheet
+  rotate: false
+  xy: 418, 135
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 9
+Marx-Sprite-sheet
+  rotate: false
+  xy: 450, 135
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 10
+shoot
+  rotate: false
+  xy: 169, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 0
+shoot
+  rotate: false
+  xy: 120, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 1
+shoot
+  rotate: false
+  xy: 267, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 2
+shoot
+  rotate: false
+  xy: 218, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 3
+shoot
+  rotate: false
+  xy: 0, 43
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 4
+shoot
+  rotate: false
+  xy: 147, 43
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 5
+shoot
+  rotate: false
+  xy: 98, 43
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 6
+shoot
+  rotate: false
+  xy: 49, 43
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 7
+shoot
+  rotate: false
+  xy: 316, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 8
+shoot
+  rotate: false
+  xy: 365, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 9
+shoot
+  rotate: false
+  xy: 463, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 10
+shoot
+  rotate: false
+  xy: 414, 0
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: 11
+thiers
+  rotate: false
+  xy: 288, 185
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: 1
+thiers
+  rotate: false
+  xy: 208, 185
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: 2
+thiers
+  rotate: false
+  xy: 128, 185
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: 3
+thiers
+  rotate: false
+  xy: 368, 185
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: 4

@@ -1,0 +1,75 @@
+no.png
+size: 128, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Marx-Sprite-sheet
+  rotate: true
+  xy: 1, 112
+  size: 30, 50
+  orig: 32, 50
+  offset: 1, 0
+  index: 1
+Marx-Sprite-sheet
+  rotate: true
+  xy: 1, 82
+  size: 28, 51
+  orig: 32, 54
+  offset: 3, 2
+  index: 3
+Marx-Sprite-sheet
+  rotate: true
+  xy: 1, 52
+  size: 28, 52
+  orig: 32, 54
+  offset: 3, 1
+  index: 4
+Marx-Sprite-sheet
+  rotate: true
+  xy: 55, 52
+  size: 28, 52
+  orig: 32, 54
+  offset: 3, 1
+  index: 5
+Marx-Sprite-sheet
+  rotate: true
+  xy: 54, 82
+  size: 28, 51
+  orig: 32, 54
+  offset: 3, 1
+  index: 6
+Marx-Sprite-sheet
+  rotate: true
+  xy: 53, 112
+  size: 27, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 7
+Marx-Sprite-sheet
+  rotate: true
+  xy: 53, 141
+  size: 27, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 8
+Marx-Sprite-sheet
+  rotate: true
+  xy: 53, 112
+  size: 27, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 9
+Marx-Sprite-sheet
+  rotate: true
+  xy: 1, 144
+  size: 27, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: 10
+Marx-Sprite-sheet
+  rotate: false
+  xy: 1, 1
+  size: 123, 49
+  orig: 128, 54
+  offset: 2, 2
+  index: 11
